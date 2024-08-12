@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="ManageEngine Analytics Plus Demo" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-02-28" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7T9ncSdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybKdlc3pQal7fN3GSnxnnPPyxTSzJRVTunxPndPXATxlndP7uNTddJQyazlnfVT71RlJfNS71QJAfpX3SbDJnRP7GycAnV7xA1bpuRX7afTc" LicenseType="Registered" Name="ManageEngine Analytics Plus Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Enterprise" Name="ManageEngine Analytics Plus" Type="Professional" Version="2.9.0.1"/>
+      <Component Name="ZROP">
+         <Properties Name="UP_TOTALDB" Value="1000000"/>
+         <Properties Name="UP_TOTALROWS" Value="1000000000"/>
+         <Properties Name="UP_TOTALUSERS" Value="500"/>
+         <Properties Name="UP_DASHBOARD_VIEWERS" Value="500"/>
+         <Properties Name="UP_TOTALQT" Value="1000000"/>
+         <Properties Name="UP_REBRAND" Value="true"/>
+         <Properties Name="UP_BACKUP" Value="true"/>
+         <Properties Name="UP_PROFILEID" Value="-1"/>
+         <Properties Name="UP_BILLING_DATE" Value=""/>
+         <Properties Name="UP_SUBSCRIPTION" Value=""/>
+         <Properties Name="UP_SCHIMPORT" Value="1000000"/>
+         <Properties Name="UP_DBOWNERS" Value="true"/>
+         <Properties Name="UP_SHOWMGEQTPAGE" Value="true"/>
+         <Properties Name="UP_LAST_MOD_TIME" Value=""/>
+         <Properties Name="UP_API_UNITS" Value="1000000"/>
+         <Properties Name="UP_API_FREQ_LIMIT " Value="1000000"/>
+         <Properties Name="UP_EMAILSCHCOUNT" Value="1000000"/>
+         <Properties Name="UP_REPORTSCOUNT" Value="1000000"/>
+         <Properties Name="UP_DBGROUP" Value="true"/>
+         <Properties Name="UP_PVTLINK" Value="true"/>
+         <Properties Name="UP_SLIDESHOW" Value="true"/>
+         <Properties Name="IS_MULTI_LANG" Value="true"/>
+         <Properties Name="IS_SDP" Value="true"/>
+         <Properties Name="UP_READONLYUSER_COUNT" Value="500"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>005tnwOP7rgowclnOdAgr7pwvKR4pdo7ojvKR4DnAl7jtlwM7ojvKR4aOhogdjlo7pwvKR4znjltep7pwvKR4pwOrDbd7pw0000001tnwOPotrOpgr7pw0000001tnwOPhPoljAMg7pw0000001stjMjl7Bgrf7jpA7pw0000001otjnw7jpA7pwgMjt7dOM7toAl7pwvKR4gDAptBgDMaOho7pwvKR4orgnaObd7pw0000001trOpMjhPo7pwnOjtpjrPobwo7pwgtAd7Dnjlljb7pw1UdjgljfOrp7pwvKR4pwzPAb7pwvKR4dnArbgr7pw0000001tBlAtOt7pw005orgagje7drAObhoAd7pw005orgowlAtOt7pw0000000001oaOrlAtOt7pw0000001bdlAtOt7pwpOruvs8RHRv4NgLXNj8ssvFjRp1I0IZIWsKLpssY84kLXNAsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
