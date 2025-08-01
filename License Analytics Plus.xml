@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Analytics Plus" EmailID="crackmanaageengine@gmail.com" ExpiryDate="2025-10-20" Key="nJbGSnDTGRbp9NS3GAPDKfRRpy7TAfcSdP3VSySzlp17a7xnlcfGSNT7JPyTQTT7fpy7a7czJR9VSaTdfRbGaaTTup3pQTDlGQ1pS1bTncG971bpuRX7aQJAfpX3SbDJnRP7GycAnV73Gfbc" LicenseType="Registered" Name="Demo Analytics Plus">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Enterprise" Name="ManageEngine Analytics Plus" Type="Professional" Version="2.9.0.1"/>
+      <Component Name="ZROP">
+         <Properties Name="UP_TOTALDB" Value="100"/>
+         <Properties Name="UP_TOTALROWS" Value="5000"/>
+         <Properties Name="UP_TOTALUSERS" Value="20"/>
+         <Properties Name="UP_DASHBOARD_VIEWERS" Value="20"/>
+         <Properties Name="UP_TOTALQT" Value="20"/>
+         <Properties Name="UP_REBRAND" Value="true"/>
+         <Properties Name="UP_BACKUP" Value="true"/>
+         <Properties Name="UP_PROFILEID" Value="-1"/>
+         <Properties Name="UP_BILLING_DATE" Value=""/>
+         <Properties Name="UP_SUBSCRIPTION" Value=""/>
+         <Properties Name="UP_SCHIMPORT" Value="300"/>
+         <Properties Name="UP_DBOWNERS" Value="true"/>
+         <Properties Name="UP_SHOWMGEQTPAGE" Value="true"/>
+         <Properties Name="UP_LAST_MOD_TIME" Value=""/>
+         <Properties Name="UP_API_UNITS" Value="20"/>
+         <Properties Name="UP_API_FREQ_LIMIT " Value="50000"/>
+         <Properties Name="UP_EMAILSCHCOUNT" Value="500"/>
+         <Properties Name="UP_REPORTSCOUNT" Value="20"/>
+         <Properties Name="UP_DBGROUP" Value="true"/>
+         <Properties Name="UP_PVTLINK" Value="true"/>
+         <Properties Name="UP_SLIDESHOW" Value="true"/>
+         <Properties Name="IS_MULTI_LANG" Value="true"/>
+         <Properties Name="IS_SDP" Value="true"/>
+         <Properties Name="UP_READONLYUSER_COUNT" Value="50"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>05tnwOP7rgowclnOdAgr7pwvKR4pdo7ojvKR4DnAl7jtlwM7ojvKR4aOhogdjlo7pwvKR4znjltep7pwvKR4pwOrDbd7pw0WtnwOPotrOpgr7pw005tnwOPhPoljAMg7pw00005stjMjl7Bgrf7jpA7pw0Wotjnw7jpA7pwgMjt7dOM7toAl7pwvKR4gDAptBgDMaOho7pwvKR4orgnaObd7pw00VtrOpMjhPo7pwnOjtpjrPobwo7pwgtAd7Dnjlljb7pw1UdjgljfOrp7pwvKR4pwzPAb7pwvKR4dnArbgr7pw0WtBlAtOt7pw0Worgagje7drAObhoAd7pw0WorgowlAtOt7pw0005oaOrlAtOt7pw001bdlAtOt7pwpOruvs8RHRv4NgLXNj8ssvFjRp1I0IZIWsKLpssY84kLXNAsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
